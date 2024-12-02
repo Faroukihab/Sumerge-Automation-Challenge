@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-02T21:15:36 EET" name="Default suite" finished-at="2024-12-02T21:15:49 EET" duration-ms="13224">
+    <groups>
+    </groups>
+    <test started-at="2024-12-02T21:15:36 EET" name="Default test" finished-at="2024-12-02T21:15:49 EET" duration-ms="13224">
+      <class name="testpages.TestloginwithValidAndwithInvalidCredentials">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:36 EET" name="startDriver" finished-at="2024-12-02T21:15:40 EET" duration-ms="3784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testUserCanLogout()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:40 EET" name="testUserCanLogout" finished-at="2024-12-02T21:15:41 EET" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserCanLogout -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:41 EET" name="stopDriver" finished-at="2024-12-02T21:15:41 EET" duration-ms="335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testUserCanLogout status=SUCCESS method=TestloginwithValidAndwithInvalidCredentials.testUserCanLogout()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:41 EET" name="startDriver" finished-at="2024-12-02T21:15:44 EET" duration-ms="3024" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="validateLoginFunctionlitywithvalidcredentials()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:44 EET" name="validateLoginFunctionlitywithvalidcredentials" finished-at="2024-12-02T21:15:45 EET" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctionlitywithvalidcredentials -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:45 EET" name="stopDriver" finished-at="2024-12-02T21:15:45 EET" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateLoginFunctionlitywithvalidcredentials status=SUCCESS method=TestloginwithValidAndwithInvalidCredentials.validateLoginFunctionlitywithvalidcredentials()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:45 EET" name="startDriver" finished-at="2024-12-02T21:15:48 EET" duration-ms="3161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="validateLoginfunctionalityWithInvalidCredentials()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:48 EET" name="validateLoginfunctionalityWithInvalidCredentials" finished-at="2024-12-02T21:15:49 EET" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginfunctionalityWithInvalidCredentials -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731]" started-at="2024-12-02T21:15:49 EET" name="stopDriver" finished-at="2024-12-02T21:15:49 EET" duration-ms="305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateLoginfunctionalityWithInvalidCredentials status=SUCCESS method=TestloginwithValidAndwithInvalidCredentials.validateLoginfunctionalityWithInvalidCredentials()[pri:0, instance:testpages.TestloginwithValidAndwithInvalidCredentials@198b6731] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- testpages.TestloginwithValidAndwithInvalidCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
